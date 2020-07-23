@@ -1,6 +1,12 @@
 # HackerRank Solutions 📄 + Certifications 🎓
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/hackerrank)
+![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
+![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
+[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+![problems-solved-java](https://img.shields.io/badge/Solutions%20(Java)-68/68-1abc9c.svg)
+![problems-solved-python](https://img.shields.io/badge/Solutions%20(Python)-115/115-1abc9c.svg)
 
 ## Domains
 - [Java](https://github.com/anishLearnsToCode/hackerrank-java)
